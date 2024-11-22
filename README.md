@@ -44,11 +44,10 @@ Wait for the app to process the file.
 View the annotated output directly in the app or download it for future use.
 
 📸 Sample Results
-Input Image: ![images](https://github.com/user-attachments/assets/26408c52-6ba8-4190-b771-9f76a3ee4a9e)
-Annotated Image: ![images](https://github.com/user-attachments/assets/9e63e25c-cff1-445c-aa20-2946accd0f62)
-
-Input Video: 
-Annotated Video:
+Input Image: 
+![images](https://github.com/user-attachments/assets/26408c52-6ba8-4190-b771-9f76a3ee4a9e)
+Annotated Image:
+![images](https://github.com/user-attachments/assets/9e63e25c-cff1-445c-aa20-2946accd0f62)
 
 💡 Future Enhancements
 OCR Integration: Automatically extract license plate text.
