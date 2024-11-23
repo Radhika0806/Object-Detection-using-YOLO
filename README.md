@@ -8,6 +8,9 @@ With a sleek interface built using Streamlit, you can upload your own images or 
 
 The idea behind this project is to build a system that detects car license plates efficiently, making it useful for real-world applications like traffic monitoring, parking systems, and security. Here’s what it offers:
 
+**Dataset link:**
+https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+
 **✨ Key Features:**
 
 Supports Multiple File Types:
