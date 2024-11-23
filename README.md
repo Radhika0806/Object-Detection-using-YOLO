@@ -34,10 +34,10 @@ Here’s how you can run the project on your own system:
 
 1️⃣ Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/Radhika0806/yolo-license-plate-detection.git
-cd yolo-license-plate-detection
+1. bash
+2. Copy code
+3. git clone https://github.com/Radhika0806/yolo-license-plate-detection.git
+4. cd yolo-license-plate-detection
 
 2️⃣ Install Dependencies:
 
