@@ -52,6 +52,7 @@ The app will process it, detect license plates, and display the annotated result
 
 📸 Sample Outputs
 Here are some examples of what the project can do:
+
 Input Image:
 ![images](https://github.com/user-attachments/assets/6026e62c-d94f-4cf5-b7ff-a8738396ec1f)
 
