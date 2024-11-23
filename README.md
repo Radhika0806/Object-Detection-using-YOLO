@@ -11,12 +11,17 @@ The idea behind this project is to build a system that detects car license plate
 **✨ Key Features:**
 
 Supports Multiple File Types:
-Images: .jpg, .jpeg, .png
+
+Images: .jpg, .jpeg, .png, .webp
 Videos: .mp4, .mkv
+
 Real-Time Detection:
-Quickly processes your media files to detect license plates.
-Annotates detected plates with bounding boxes and detection confidence scores.
+
+1. Quickly processes your media files to detect license plates.
+2. Annotates detected plates with bounding boxes and detection confidence scores.
+   
 Interactive User Interface:
+
 Built with Streamlit, the app makes it easy to upload files and view results right on the screen.
 
 **🛠️ Technologies I Used:**
