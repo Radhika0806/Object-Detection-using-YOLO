@@ -12,8 +12,8 @@ The idea behind this project is to build a system that detects car license plate
 
 Supports Multiple File Types:
 
-Images: .jpg, .jpeg, .png, .webp
-Videos: .mp4, .mkv
+**Images**: .jpg, .jpeg, .png, .webp
+**Videos**: .mp4, .mkv
 
 Real-Time Detection:
 
