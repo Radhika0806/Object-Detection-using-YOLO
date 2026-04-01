@@ -54,6 +54,14 @@ ObjectDetection/
 |-- output/                # Processed output files
 ```
 
+## Screenshots
+
+| Upload Interface | Detection Result |
+|-----------------|------------------|
+| ![Upload](screenshots/upload.png) | ![Detection](screenshots/detection.png) |
+
+> **To add screenshots:** Run `streamlit run yolo_application.py`, upload an image, and save screenshots of the interface and detection output in the `screenshots/` folder.
+
 ## How It Works
 
 1. User uploads an image or video through the Streamlit interface
